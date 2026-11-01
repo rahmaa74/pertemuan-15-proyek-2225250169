@@ -1,0 +1,5 @@
+A001,Andi,80
+A002,Budi,70
+A003,Citra,90
+A004,Dina,55
+A005,Eka,100
